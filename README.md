@@ -25,4 +25,4 @@ Access code: vnag
 - `get_miou.py`: mIoU evaluation script
 - `summary.py`: model parameter & FLOPs statistics
 - `voc_annotation.py`: dataset pre‑processing for PASCAL VOC2012
-- Dataset split folders: pre‑processed index / split files for CamVid, Cityscapes and PASCAL VOC2012 (included in the zip archive)
+- Dataset split folders: pre‑processed index / split files for CamVid, PASCAL VOC2012 (included in the zip archive)
