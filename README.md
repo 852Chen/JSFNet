@@ -4,6 +4,12 @@ Complete source code package:
 - Access code: `dv46`
 
 > ⚠️ Note: This compressed package contains source code, configuration files, **and pre‑processed dataset split/index files required for reproducing experimental results**. Raw public datasets (CamVid, PASCAL VOC2012) need to be downloaded from their official websites separately.
+##Dataset
+Pre-processed CamVid dataset (11 classes):
+
+Baidu Netdisk: camvid11.zip
+
+Access code: vnag
 
 ## Environment Requirements
 - Python >= 3.8
