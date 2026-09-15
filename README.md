@@ -8,7 +8,7 @@ Complete source code package:
 Pre-processed CamVid dataset (11 classes):
 
 Baidu Netdisk: camvid11.zip
-
+https://pan.baidu.com/s/1ongIUICCqikNWdq4yrw0BA?pwd=vnag
 Access code: vnag
 
 ## Environment Requirements
